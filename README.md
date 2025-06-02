@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/InesBatista74/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/InesBatista74/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/InesBatista74/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/InesBatista74/LeetCode/tree/master/0389-find-the-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/InesBatista74/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
