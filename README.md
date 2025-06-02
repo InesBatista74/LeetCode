@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/InesBatista74/LeetCode/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/InesBatista74/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
