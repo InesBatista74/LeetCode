@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/InesBatista74/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/InesBatista74/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/InesBatista74/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/InesBatista74/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/InesBatista74/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/InesBatista74/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/InesBatista74/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
