@@ -21,6 +21,7 @@
 | [0009-palindrome-number](https://github.com/InesBatista74/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/InesBatista74/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/InesBatista74/LeetCode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/InesBatista74/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/InesBatista74/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/InesBatista74/LeetCode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/InesBatista74/LeetCode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/InesBatista74/LeetCode/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/InesBatista74/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
