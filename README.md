@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/InesBatista74/LeetCode/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/InesBatista74/LeetCode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -33,10 +34,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/InesBatista74/LeetCode/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/InesBatista74/LeetCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/InesBatista74/LeetCode/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/InesBatista74/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/InesBatista74/LeetCode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -50,4 +53,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/InesBatista74/LeetCode/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/InesBatista74/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
