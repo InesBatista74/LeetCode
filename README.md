@@ -27,6 +27,7 @@
 | [0009-palindrome-number](https://github.com/InesBatista74/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/InesBatista74/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/InesBatista74/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/InesBatista74/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/InesBatista74/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/InesBatista74/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -59,6 +60,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/InesBatista74/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/InesBatista74/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/InesBatista74/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/InesBatista74/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
