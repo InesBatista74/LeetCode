@@ -8,11 +8,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InesBatista74/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/InesBatista74/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/InesBatista74/LeetCode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/InesBatista74/LeetCode/tree/master/0217-contains-duplicate) |
 | [2159-two-out-of-three](https://github.com/InesBatista74/LeetCode/tree/master/2159-two-out-of-three) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/InesBatista74/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/InesBatista74/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/InesBatista74/LeetCode/tree/master/0389-find-the-difference) |
 | [2159-two-out-of-three](https://github.com/InesBatista74/LeetCode/tree/master/2159-two-out-of-three) |
 ## Linked List
@@ -66,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/InesBatista74/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/InesBatista74/LeetCode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
